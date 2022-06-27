@@ -73,6 +73,7 @@ ___
    ↳ 7.2 - Den Aufforderungen des Teams ist immer Folge zu leisten.
    ↳ 7.3 - Das Umgehen von Sanktionen ist verboten (Banumgehung). 
    ↳ 7.4 - Die Beihilfe zur Banumgehung (Ausleihen von Accounts, Verbreiten von Nachrichten gebannter Personen, ...) ist verboten. 
+   ↳ 7.5 - Das Nutzen mehrerer Accounts (Discord, Minecraft, ...) für einen Vorteil ggü. anderen ist verboten.
 ```
 
 ## Rules 
@@ -141,4 +142,5 @@ ___
    ↳ 7.2 - The requests of the team must always be followed.
    ↳ 7.3 - Evading sanctions is forbidden (ban evasion). 
    ↳ 7.4 - Aiding ban evasion (borrowing accounts, spreading messages of banned persons, ...) is prohibited. 
+   ↳ 7.4 - The usage of multiple accounts (discord/mincraft) in order to get an advantage is prohibited.
 ```
