@@ -21,7 +21,7 @@ ___
 
 ## Rules 
 ```
-1. general 
+1. General 
    ↳ 1.1 - On the JET server, griefing bases is allowed as long as it is needed to raid the base. Complete destruction of a base is not allowed. 
    ↳ 1.2 - Every player is able to claim some chunks in oder to protect a part of their base. Bypassing this protection is not allowed.
    ↳ 1.3 - Using the contract system, contracts can be made between players or groups that allow them bypass certain rules, such as griefing.
