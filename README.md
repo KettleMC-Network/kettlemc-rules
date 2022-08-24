@@ -15,13 +15,11 @@ ___
    ↳ 1.3 - Dieses Regelwerk ist gültig für das KettleMC.net Minecraft-Netzwerk und alle damit verbundenen Komponenten (Discord, Forum, ...).
    ↳ 1.4 - Unwissenheit schützt nicht vor Strafe.
    ↳ 1.5 - Bei einem Regelverstoß kann es zu temporären oder permanenten Ausschluss vom Spielgeschehen oder vom Chat kommen.
- 
- 
+  
 2. Gespeicherte Daten
    ↳ 2.1 - Spielbedingt sowie zur Sicherung von Spielständen und der Verfolgung von Regelverstößen werden einige Daten temporär oder permanent gespeichert. Diese beinhalten unter anderem die UUID (Einzigartige ID) und den Name des Minecraft Accounts, die IP-Adresse und Aktionen im Spiel (Klicken, Bewegungen, Bauwerke, Nachrichten, ...)
    ↳ 2.2 - Im Falle einer Veröffentlichung der Spielwelten besteht die Möglichkeit, dass die dort gespeicherten Daten (Bauwerke, Name, UUID) veröffentlicht werden.
- 
- 
+
 3. Wort, Bild und Schrift
    ↳ 3.1 - Die Regeln zu 'Wort, Bild und Schrift' beziehen sich auf sämtliche Schriften (Chat, Namen, Dateien, ...), Bilder (Capes, Skins, ...) und mündlich getätigte Aussagen auf dem Netzwerk.
    ↳ 3.2 - Beleidigungen jeder Art, Provokation und Bedrohungen sowie Rassismus, Nationalsozialismus oder sonstige Formen von Diskriminierung sind in jeder Form verboten.
@@ -38,8 +36,6 @@ ___
    ↳ 3.13 - Die Verbreitung pornografischer oder nicht jugendfreier Inhalte sind verboten (NSFW).
    ↳ 3.14 - Das Versenden von jeglichen Dateien, die Schaden an Endgeräten oder Discord verursachen können, sind verboten.
    ↳ 3.15 - Das veröffentlichen von persönlichen Daten auf dem Discord (voller Name, Adresse, Email, Telefonnummer, ...) ist verboten.
-   
-
 
 4. Modifikationen
    ↳ 4.1 - Das Nutzen von Modifikationen (Mods) des Spiels auf dem KettleMC.net Netzwerk ist erlaubt, solange folgende Punkte erfüllt sind:
@@ -78,19 +74,17 @@ ___
 
 ## Rules 
 ```
-1. general 
+1. General 
    ↳ 1.1 - By entering our server you have to accept our rules.
    ↳ 1.2 - Rule changes can be made without notification.
    ↳ 1.3 - This rulebook is valid for the KettleMC.net Minecraft network and all related components (Discord, forum, ...).
    ↳ 1.4 - Ignorance does not protect from punishment.
    ↳ 1.5 - Breaking the rules may result in temporary or permanent exclusion from the game or chat.
- 
- 
+
 2. Data
    ↳ 2.1 - Due to the game as well as to save game scores and to track rule violations, some data will be stored temporarily or permanently. These include, among others, the UUID (Unique ID) and the name of the Minecraft account, the IP address and actions in the game (clicks, movements, builds, messages, ...).
    ↳ 2.2 - In case of publication of the game worlds, there is a possibility that the data stored there (constructions, name, UUID) will be published.
- 
- 
+
 3. Word, image and writing
    ↳ 3.1 - The rules on 'word, image and writing' refer to all writings (chat, names, files, ...), images (capes, skins, ...) and verbal statements made on the network.
    ↳ 3.2 - Insults of any kind, provocation and threats as well as racism, national socialism or other forms of discrimination are prohibited in any form.
@@ -107,8 +101,6 @@ ___
    ↳ 3.13 - The distribution of pornographic or adult content is prohibited (NSFW).
    ↳ 3.14 - Sending any files that can cause damage to terminal equipment or Discord are prohibited.
    ↳ 3.15 - Publishing personal data on Discord (full name, address, email, phone number, ...) is forbidden.
-   
-
 
 4. Modifications
    ↳ 4.1 - Using modifications (mods) of the game on the KettleMC.net network is allowed as long as the following points are met:
@@ -136,7 +128,7 @@ ___
    ↳ 6.8 - The use of automated functions is forbidden (bots).
    ↳ 6.9 - The use of misleading, offensive or insulting names or skins is prohibited.
    ↳ 6.10 - The rules of individual game modes or projects override or supplement the normal rules. The normal rules will still apply unless specifically stated.
-   
+
 7. Miscellaneous
    ↳ 7.1 - Identity theft, such as impersonating a team member, Discord partner, or YouTuber, is prohibited.
    ↳ 7.2 - The requests of the team must always be followed.
