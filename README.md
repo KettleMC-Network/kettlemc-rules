@@ -3,7 +3,8 @@
 ___
 
 **Discord:** https://discord.gg/f9P9HEj</br>
-**Website:** https://KettleMC.net
+**Website:** https://KettleMC.net</br>
+**Mods:** [Erlaubte/Verbotene Mods (allowed/forbidden mods)](/mods/MODS.md)
 
 ___
 
