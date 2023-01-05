@@ -16,7 +16,7 @@ ___
    ↳ 1.3 - Mithilfe des Contract-/Vertragssystems können zwischen Spielern oder Gruppen Verträge geschlossen werden, durch die bestimmte Regeln, wie das Griefen von Basen, für ein Team erlaubt werden kann.
    ↳ 1.4 - Das nutzen von gesperrten Items ist untersagt, sollte es zu Fehlern kommen, die diese Items verfügbar machen, muss dies gemeldet werden.
    ↳ 1.5 - Roleplay ist auf dem Server grundlegend erlaubt, solange es keine unbeteiligten stört und nicht gegen andere Regeln (zB. Nationalsozialismus) verstößt.
-   ↳ 1.6 - Das stehlen von Items aus Kisten oder sonstigen Containern ist erlaubt, solange das Gebiet nicht offiziell geclaimt (FTB Utilities) ist.
+   ↳ 1.6 - Das Stehlen von Items aus ungeschützten*¹ Kisten oder sonstigen Containern ist erlaubt. Ist das Gebiet geschützt*¹ und man hat keinen offiziellen Zugriff*² darauf, ist das Stehlen der Items verboten.
 ```
 
 ## Rules 
@@ -27,5 +27,11 @@ ___
    ↳ 1.3 - Using the contract system, contracts can be made between players or groups that allow them bypass certain rules, such as griefing.
    ↳ 1.4 - The use of blocked items is forbidden, if there are bugs that make these items available, this must be reported.
    ↳ 1.5 - Basic roleplay is allowed on the server, as long as it does not disturb any uninvolved parties and does not violate other rules (e.g. National Socialism).
-   ↳ 1.6 - Stealing items out of containers in non-protected areas is allowed.
+   ↳ 1.6 - Stealing items out of containers in non-protected*¹ areas is allowed. If the area is protected*¹ and you don't have official access*² to it, stealing the items is forbidden.
 ```
+
+*¹ (un)geschützt = Zugriff auf die Region (nicht) durch FTB-Utilities oder offizielle Serverregionen (Spawn etc.) eingeschränkt.</br>
+*² offizieller Zugriff = Zugriff durch Hinzufügen zur Region gewährt (FTB-Utilities Friend Request etc.)
+
+*¹ (un)protected = Acces to the region is (not) restricted by FTB-Utilities or official server regions (Spawn etc.).</br>
+*² official access = Access to the region has been granted by adding someone to the region (FTB-Utilities Friend Request etc.)
