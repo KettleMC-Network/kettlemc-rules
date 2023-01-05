@@ -17,9 +17,9 @@ ___
 
 
 \*¹ Nur in Modpacks erlaubt, welche bereits eine Minimap haben (oder Vanilla server).</br>
-\*² Nur erlaubt, wenn keine Automatisierung genutzt wird (keine Printer).
+\*² Nur erlaubt, wenn keine Automatisierung genutzt wird (keine Printer).</br>
 \*³ Nicht erlaubt, um Freecam zu nutzen.
 
 \*¹ Only allowed in modpacks which have a minimap mod installed (except vanilla servers).</br>
-\*² Only allowed, if no automated tasks are used (no printer).
+\*² Only allowed, if no automated tasks are used (no printer).</br>
 \*³ Not allowed for using Freecam.
