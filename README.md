@@ -16,6 +16,7 @@ ___
    ↳ 1.3 - Dieses Regelwerk ist gültig für das KettleMC.net Minecraft-Netzwerk und alle damit verbundenen Komponenten (Discord, Forum, ...).
    ↳ 1.4 - Unwissenheit schützt nicht vor Strafe.
    ↳ 1.5 - Bei einem Regelverstoß kann es zu temporären oder permanenten Ausschluss vom Spielgeschehen oder vom Chat kommen.
+   ↳ 1.6 - Beachte den gesunden Menschenverstand (zB.: Aktionen, die klar verboten sein sollten und es nicht sind, führen ggf. trotzdem zu Konsequenzen).
   
 2. Gespeicherte Daten
    ↳ 2.1 - Spielbedingt sowie zur Sicherung von Spielständen und der Verfolgung von Regelverstößen werden einige Daten temporär oder permanent gespeichert. Diese beinhalten unter anderem die UUID (Einzigartige ID) und den Name des Minecraft Accounts, die IP-Adresse und Aktionen im Spiel (Klicken, Bewegungen, Bauwerke, Nachrichten, ...)
@@ -81,6 +82,7 @@ ___
    ↳ 1.3 - This rulebook is valid for the KettleMC.net Minecraft network and all related components (Discord, forum, ...).
    ↳ 1.4 - Ignorance does not protect from punishment.
    ↳ 1.5 - Breaking the rules may result in temporary or permanent exclusion from the game or chat.
+   ↳ 1.6 - Use common sense (zB.: Actions that should clearly be prohibited but are not explicitly mentioned here can still have consequences).
 
 2. Data
    ↳ 2.1 - Due to the game as well as to save game scores and to track rule violations, some data will be stored temporarily or permanently. These include, among others, the UUID (Unique ID) and the name of the Minecraft account, the IP address and actions in the game (clicks, movements, builds, messages, ...).
