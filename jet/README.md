@@ -11,6 +11,7 @@ ___
 ## Regeln 
 ```
 1. Allgemeines 
+   ↳ 1.0 - Spielspaß steht an oberster Stelle, habt ein wenig Menschlichkeit.
    ↳ 1.1 - Auf dem JET-Server ist das Griefen/Mutwillige zerstören von Basen grundsätzlich erlaubt. Allerdings gilt jede Form der Zerstörung als Kriegserklärung. Eine vollständige Zerstörung einer Basis ist erlaubt. Sollte jedoch ein weniger zerstörerischer Weg in die Basis möglich sein, so ist dieser zu bevorzugen.
       ↳ 1.1.1 - Eine Basis gilt nur dann als Basis wenn sie regelmäßig in Benutzung ist. Ein Angriffslager in der Nähe der feindlichen Basis ist keine Basis.
       ↳ 1.1.2 - Stützpunkte in anderen Dimensionen gelten nicht als Basen.
