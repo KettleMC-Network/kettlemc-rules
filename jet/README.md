@@ -24,7 +24,7 @@ ___
    ↳ 1.8 - Das Verhältnis zwischen Angreifern und Verteidigern darf maximal 2:1 betragen. Beispiel: Wird ein Team mit zwei online befindlichen Spielern angegriffen, dürfen höchstens vier Spieler den Angriff durchführen.
       ↳ 1.8.1 - Im Verteidigungsfall darf das angegriffene Team diese Beschränkung umgehen, solange dies nur in der eigenen Basis und umliegend stattfindet.
       ↳ 1.8.2 - Der Kampf Timer beträgt 5 Minuten nach dem letzt ausgeführten/erhaltenen Schaden, damit eine Chance auf Rache besteht und ein verlassen des Servers verzögert wird.
-      ↳ 1.8.3 - Das verlassen des Servers während eines Angriffs verhindert nicht dass der Angriff weiterhin stattfindet.
+      ↳ 1.8.3 - Das verlassen des Servers während eines Angriffs verhindert nicht, dass der Angriff weiterhin stattfindet.
    ↳ 1.9 - Bereits eine einzelne Person gilt als Team. Dies ermöglicht es uns, eine Bestenliste zu erstellen, in der auch Einzelspieler die Chance haben, besser abzuschneiden als große Teams.
    ↳ 1.10 - Falls Grauzonen im Regelwerk ausgenutzt werden führt dies zu einem permanenten Ausschluss von JET.
       ↳ 1.10.1 - Sobald Grauzonen entdeckt werden wird das Regelwerk unangekündigt aktualisiert. Daher wird empfohlen, regelmäßig die Regeln zu checken.
