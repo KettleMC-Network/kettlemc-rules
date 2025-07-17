@@ -60,7 +60,6 @@ ___
    ↳ 1.11 - Chunks may only be loaded by players.
    ↳ 1.12 - Changing teams is allowed at any time. However, you may not raid or grief your former team for 7 days after switching.
       ↳ 1.12.1 - Stealing items from your current or former team is prohibited during this 7-day period.
-
 ```
 
 *¹ (un)geschützt = Zugriff auf die Region (nicht) durch FTB-Utilities oder offizielle Serverregionen (Spawn etc.) eingeschränkt.</br>
