@@ -31,6 +31,7 @@ ___
    ↳ 1.10 - Falls Grauzonen im Regelwerk ausgenutzt werden führt dies zu einem permanenten Ausschluss von JET.
       ↳ 1.10.1 - Sobald Grauzonen entdeckt werden wird das Regelwerk unangekündigt aktualisiert. Daher wird empfohlen, regelmäßig die Regeln zu checken.
    ↳ 1.11 - Das Laden von Chunks darf nur durch Spieler geschehen.
+   ↳ 1.12 - Das wechseln des Teams ist jederzeit möglich, jedoch darf man das alte Team 7 Tage lang nicht Raiden oder Griefen.
 ```
 
 ## Rules 
@@ -56,6 +57,7 @@ ___
    ↳ 1.10 - Exploiting grey areas in the rules will result in a permanent ban from JET.
       ↳ 1.10.1 - If a grey area is discovered, the rules may be updated without notice. Regularly reviewing the rules is strongly recommended.
    ↳ 1.11 - Chunks may only be loaded by players.
+   ↳ 1.12 - Changing teams is allowed at any time. However, you may not raid or grief your former team for 7 days after switching.
 ```
 
 *¹ (un)geschützt = Zugriff auf die Region (nicht) durch FTB-Utilities oder offizielle Serverregionen (Spawn etc.) eingeschränkt.</br>
