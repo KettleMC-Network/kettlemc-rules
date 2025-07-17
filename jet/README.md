@@ -24,9 +24,11 @@ ___
    ↳ 1.8 - Das Verhältnis zwischen Angreifern und Verteidigern darf maximal 2:1 betragen. Beispiel: Wird ein Team mit zwei online befindlichen Spielern angegriffen, dürfen höchstens vier Spieler den Angriff durchführen.
       ↳ 1.8.1 - Im Verteidigungsfall darf das angegriffene Team diese Beschränkung umgehen, solange dies nur in der eigenen Basis und umliegend stattfindet.
       ↳ 1.8.2 - Der Combatlog beträgt 5 Minuten, damit eine Chance auf Rache besteht.
-↳ 1.9 - Bereits eine einzelne Person gilt als Team. Dies ermöglicht es uns, eine Bestenliste zu erstellen, in der auch Einzelspieler die Chance haben, besser abzuschneiden als große Teams.
+   ↳ 1.9 - Bereits eine einzelne Person gilt als Team. Dies ermöglicht es uns, eine Bestenliste zu erstellen, in der auch Einzelspieler die Chance haben, besser abzuschneiden als große Teams.
    ↳ 1.10 - Falls Grauzonen im Regelwerk ausgenutzt werden führt dies zu einem permanennten Ausschluss von JET.
-   ↳ 1.11 - Das Laden von Chunks ist nur möglich durch Spieler und darf durch Beispielsweise Maschinen nicht genutzt werden.
+      ↳ 1.10.1 - Sobald Grauzonen entdeckt werden wird das Regelwerk unangekündigt aktualisiert. Daher wird Empfohlen Regelmäßig die Regeln zu checken.
+   ↳ 1.11 - Das Laden von Chunks darf nur durch Spieler geschehen.
+
 ```
 
 ## Rules 
