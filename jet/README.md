@@ -42,6 +42,7 @@ ___
       ↳ 3.2.3 - Community-Projekte können durch einen Antrag über Discord vor Griefing geschützt („geclaimt“) werden.
       ↳ 3.2.4 - Basen von Spielern, welche länger als 4 Wochen nicht aktiv waren, werden als Ruinen gewertet. Ruinen können im beliebigen Ausmaß zerstört werden.
          ↳ 3.2.4.1 - Als Ruinen gekennzeichnete Team Basen werden nach betreten eines Teammitglieds auf den Server wieder zu einer aktiven Basis.
+         ↳ 3.2.4.2 - Ruinen dürfen von anderen Teams übernommen werden und als ihre eigene Basis verwendet werden. Dadurch gilt Regel 3.2.4.1 nicht mehr.
 ```
 
 ## Rules 
@@ -78,6 +79,7 @@ ___
       ↳ 3.2.3 - Community projects can be protected ("claimed") against griefing by submitting a request via Discord.  
       ↳ 3.2.4 - Bases belonging to players inactive for more than 4 weeks are considered ruins. Ruins may be destroyed without restrictions.  
          ↳ 3.2.4.1 - Team bases marked as ruins become active bases again once a team member logs in to the server.  
+         ↳ 3.2.4.2 - Ruins may be claimed by other teams and used as their own base. In this case, rule 3.2.4.1 no longer applies.
 ```
 
 *¹ (un)geschützt = Zugriff auf die Region (nicht) durch FTB-Utilities oder offizielle Serverregionen (Spawn etc.) eingeschränkt.</br>
