@@ -12,23 +12,23 @@ ___
 ```
 1. Allgemeines 
    ↳ 1.1 - Auf dem JET-Server ist das Griefen von Basen grundsätzlich erlaubt. Allerdings gilt jede Form der Zerstörung als Kriegserklärung. Eine vollständige Zerstörung einer Basis ist erlaubt. Sollte jedoch ein weniger zerstörerischer Weg in die Basis möglich sein, so ist dieser zu bevorzugen.
-      ↳ 1.1.1 - Eine Basis gilt nur dann als Basis wenn sie Regelmäßig in benutzung ist. Ein Angriffslager in der Nähe der Feindlichen Basis ist keine Basis.
-      ↳ 1.1.2 - Das Bauen von Stützpunkten in anderen Dimensionen gelten nicht als Basis.
+      ↳ 1.1.1 - Eine Basis gilt nur dann als Basis wenn sie regelmäßig in Benutzung ist. Ein Angriff Lager in der Nähe der Feindlichen Basis ist keine Basis.
+      ↳ 1.1.2 - Stützpunkte in anderen Dimensionen gelten nicht als Basen.
       ↳ 1.1.3 - Community-Projekte können durch einen Antrag über Discord vor Griefing geschützt („geclaimt“) werden.
-   ↳ 1.2 - Mithilfe des Contract-/Vertragssystems können zwischen Spielern oder Gruppen Verträge geschlossen werden. Ein Verstoß gegen einen Vertrag ist eine Kriegserklärung.
+   ↳ 1.2 - Mithilfe des Contract-/Vertragssystems können zwischen Spielern oder Gruppen Verträge geschlossen werden. Darunter zählen beispielsweise Kooperations- und Friedensverträge. Die Bedingungen eines Vertrags werden von beiden Pateien vereinbart. Ein Verstoß gegen einen Vertrag ist eine Kriegserklärung.
    ↳ 1.3 - Die Nutzung gesperrter Items ist untersagt. Sollten durch Fehler gesperrte Items verfügbar werden, ist dies unverzüglich zu melden
    ↳ 1.4 - Roleplay ist grundsätzlich auf dem Server erlaubt (mit Ausnahme von Power-Play*²), solange es nicht übermäßig stört oder gegen andere Regeln – etwa gegen das Verbot nationalsozialistischer Inhalte – verstößt.
    ↳ 1.5 - Das Stehlen von Items aus ungeschützten¹ Kisten oder anderen Containern ist erlaubt. Befindet sich das Gebiet jedoch unter Schutz¹, ist das Stehlen verboten.
-   ↳ 1.6 - Das Raiden von Basen ist erlaubt, sofern mindestens ein Spieler des angegriffenen Teams online ist und keine unfairen Verhältnisse bestehen (siehe Regel 1.8).
-   ↳ 1.7 - Pro Team dürfen sich maximal drei Gefechtsraketen gleichzeitig in der Luft befinden.
+   ↳ 1.6 - Das Überfallen von Basen ist erlaubt, sofern mindestens ein Spieler des angegriffenen Teams online ist und keine unfairen Verhältnisse bestehen (siehe Regel 1.8).
+   ↳ 1.7 - Pro Team dürfen sich maximal drei Gefechts Raketen gleichzeitig in der Luft befinden.
    ↳ 1.8 - Das Verhältnis zwischen Angreifern und Verteidigern darf maximal 2:1 betragen. Beispiel: Wird ein Team mit zwei online befindlichen Spielern angegriffen, dürfen höchstens vier Spieler den Angriff durchführen.
       ↳ 1.8.1 - Im Verteidigungsfall darf das angegriffene Team diese Beschränkung umgehen, solange dies nur in der eigenen Basis und umliegend stattfindet.
-      ↳ 1.8.2 - Der Combatlog beträgt 5 Minuten, damit eine Chance auf Rache besteht.
+      ↳ 1.8.2 - Der Combatlog beträgt 5 Minuten nach dem letzt ausgeführten/erhaltenen Schaden, damit eine Chance auf Rache besteht und ein verlassen des Servers verzögert wird.
+      ↳ 1.8.3 - Das verlassen des Servers während eines Angriffs verhindert nicht dass der Angriff weiterhin stattfindet.
    ↳ 1.9 - Bereits eine einzelne Person gilt als Team. Dies ermöglicht es uns, eine Bestenliste zu erstellen, in der auch Einzelspieler die Chance haben, besser abzuschneiden als große Teams.
-   ↳ 1.10 - Falls Grauzonen im Regelwerk ausgenutzt werden führt dies zu einem permanennten Ausschluss von JET.
-      ↳ 1.10.1 - Sobald Grauzonen entdeckt werden wird das Regelwerk unangekündigt aktualisiert. Daher wird Empfohlen Regelmäßig die Regeln zu checken.
+   ↳ 1.10 - Falls Grauzonen im Regelwerk ausgenutzt werden führt dies zu einem permanenten Ausschluss von JET.
+      ↳ 1.10.1 - Sobald Grauzonen entdeckt werden wird das Regelwerk unangekündigt aktualisiert. Daher wird empfohlen, regelmäßig die Regeln zu checken.
    ↳ 1.11 - Das Laden von Chunks darf nur durch Spieler geschehen.
-
 ```
 
 ## Rules 
