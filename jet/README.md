@@ -32,7 +32,7 @@ ___
       ↳ 1.10.1 - Sobald Grauzonen entdeckt werden wird das Regelwerk unangekündigt aktualisiert. Daher wird empfohlen, regelmäßig die Regeln zu checken.
    ↳ 1.11 - Das Laden von Chunks darf nur durch Spieler geschehen.
    ↳ 1.12 - Das wechseln des Teams ist jederzeit möglich, jedoch darf man das alte Team 7 Tage lang nicht Raiden oder Griefen.
-      ↳ 1.12.1 - Das klauen von Gegenstände des eigenen oder alten Teams ist innerhalb dieser 7 Tage untersagt.
+      ↳ 1.12.1 - Das klauen von Gegenstände des eigenen oder alten Teams ist innerhalb dieser 7 Tage ist untersagt.
 ```
 
 ## Rules 
