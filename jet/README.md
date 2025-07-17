@@ -33,6 +33,7 @@ ___
       ↳ 2.7.1 - Das Klauen von Gegenstände des eigenen oder alten Teams ist innerhalb dieser 7 Tage untersagt.
 
 3. Welt & Base
+   ↳ 3.0 - Es ist für jedes Team nötig ein gut sichtbares Schild in der Basis mit allen Teammitgliedern aufgelistet zu haben.
    ↳ 3.1 - Das Laden von Chunks darf nur durch Spieler geschehen.
       ↳ 3.1.1 - Nach 30 Minuten Inaktivität wirst du als AFK makiert und auf die Lobby geschoben.
       ↳ 3.1.2 - Mechaniken um die Zeit zu verlängert sind nicht erlaubt.
@@ -69,7 +70,8 @@ ___
    ↳ 2.7 - Switching teams is allowed at any time, but you may not raid or grief your former team for 7 days.  
       ↳ 2.7.1 - Stealing items from your current or former team is also forbidden during these 7 days.  
 
-3. World & Bases  
+3. World & Bases
+   ↳ 3.0 - Each team must place a clearly visible sign in their base listing all team members.  
    ↳ 3.1 - Chunks may only be loaded by players.  
       ↳ 3.1.1 - After 30 minutes of inactivity, you will be marked as AFK and moved to the lobby.  
       ↳ 3.1.2 - Using mechanics to extend this time is not allowed.  
