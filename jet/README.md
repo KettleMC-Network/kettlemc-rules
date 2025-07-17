@@ -36,18 +36,26 @@ ___
 ## Rules 
 ```
 1. General  
-   ↳ 1.1 - Griefing bases is allowed on the JET server. However, any form of destruction is considered a declaration of war. Completely destroying a base is permitted. If there is a less destructive way to enter the base, it should be used instead. 
-      ↳ 1.1.1 - Community projects can be protected ("claimed") against griefing, but this must be requested via Discord.
-   ↳ 1.2 - Through the contract system, players or groups can make agreements with each other. For example, griefing bases may be allowed for a specific team through such a contract.
-   ↳ 1.3 - The use of banned items is prohibited. If bugs or errors make these items available, it must be reported immediately.  
-   ↳ 1.4 - Roleplay is generally allowed on the server (with the exception of power play*²), as long as it is not excessively disruptive and does not violate other rules (e.g. content related to National Socialism). 
-   ↳ 1.5 - Stealing items from unprotected¹ chests or containers is allowed. However, if the area is protected¹, stealing is forbidden.  
-   ↳ 1.6 - Raiding bases is allowed as long as at least one player from the defending team is online and there is no unfair team imbalance (see rule 1.8). 
+   ↳ 1.1 - Griefing or willfully destroying bases is generally allowed on the JET server. However, any form of destruction is considered a declaration of war. Completely destroying a base is allowed, but if a less destructive way to enter is possible, it should be preferred.
+      ↳ 1.1.1 - A base is only considered a base if it is actively used. A temporary war camp near an enemy base does not count as a base.
+      ↳ 1.1.2 - Outposts in other dimensions do not count as bases.
+      ↳ 1.1.3 - Community projects can be protected ("claimed") against griefing by submitting a request via Discord.
+   ↳ 1.2 - Contracts between players or groups can be created via the contract system. These may include peace or cooperation agreements. Violating a contract is considered a declaration of war.
+   ↳ 1.3 - The use of banned items is prohibited. If such items become accessible due to bugs, this must be reported immediately.
+   ↳ 1.4 - Roleplay is generally allowed (except power play*²), as long as it does not significantly disrupt gameplay or violate other rules (e.g. National Socialist content).
+   ↳ 1.5 - Stealing from unprotected¹ chests or containers is allowed. However, stealing from protected¹ areas is prohibited.
+   ↳ 1.6 - Raiding bases is allowed if at least one player from the defending team is online and there is no unfair team imbalance (see rule 1.8).
    ↳ 1.7 - Each team may have a maximum of three combat missiles in the air at the same time.
-   ↳ 1.8 - The attacker-to-defender ratio must not exceed 2:1. For example: if a team with 2 online players is being raided, only 4 attackers are allowed.
-      ↳ 1.8.1 - In the event of a defense, the attacked team may bypass this limitation, as long as it takes place only within their own base.
-   ↳ 1.9 - Even a single person counts as a team. This allows us to create a leaderboard where solo players have a fair chance to outperform even the largest teams.
-      
+   ↳ 1.8 - The ratio of attackers to defenders must not exceed 2:1. For example, if 2 players from a team are online, up to 4 players may attack.
+      ↳ 1.8.1 - In defense, the defending team may bypass this limitation if they remain in or around their own base.
+      ↳ 1.8.2 - The combat timer is 5 minutes after the last dealt or received damage to allow for retaliation and prevent immediate logout.
+      ↳ 1.8.3 - Logging out during an attack does not stop the attack from continuing.
+      ↳ 1.8.4 - Harassing players near the server spawn is not allowed.
+      ↳ 1.8.5 - Spawn traps and respawn killing are forbidden and may result in punishment if reported.
+   ↳ 1.9 - Even a single person is considered a team. This allows us to maintain a leaderboard where solo players have a fair chance to compete with larger teams.
+   ↳ 1.10 - Exploiting grey areas in the rules will result in a permanent ban from JET.
+      ↳ 1.10.1 - If a grey area is discovered, the rules may be updated without notice. Regularly reviewing the rules is strongly recommended.
+   ↳ 1.11 - Chunks may only be loaded by players.
 ```
 
 *¹ (un)geschützt = Zugriff auf die Region (nicht) durch FTB-Utilities oder offizielle Serverregionen (Spawn etc.) eingeschränkt.</br>
