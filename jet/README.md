@@ -38,7 +38,8 @@ ___
 
 ## Rules 
 ```
-1. General  
+1. General
+   ↳ 1.0 - Fun is the top priority. Please treat each other with basic decency.
    ↳ 1.1 - Griefing or willfully destroying bases is generally allowed on the JET server. However, any form of destruction is considered a declaration of war. Completely destroying a base is allowed, but if a less destructive way to enter is possible, it should be preferred.
       ↳ 1.1.1 - A base is only considered a base if it is actively used. A temporary war camp near an enemy base does not count as a base.
       ↳ 1.1.2 - Outposts in other dimensions do not count as bases.
