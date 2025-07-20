@@ -21,8 +21,8 @@ ___
    ↳ 2.1 - Mithilfe des Contract-/Vertragssystems können zwischen Spielern oder Gruppen Verträge geschlossen werden. Darunter zählen beispielsweise Kooperations- und Friedensverträge. Die Bedingungen eines Vertrags werden von beiden Pateien vereinbart. Ein Verstoß gegen einen Vertrag ist eine Kriegserklärung.
    ↳ 2.2 - Roleplay ist grundsätzlich auf dem Server erlaubt (mit Ausnahme von Power-Play*²), solange es nicht übermäßig stört oder gegen andere Regeln – etwa gegen das Verbot nationalsozialistischer Inhalte – verstößt.
    ↳ 2.3 - Das Stehlen von Items aus ungeschützten¹ Kisten oder anderen Containern ist erlaubt. Befindet sich das Gebiet jedoch unter Schutz¹, ist das Stehlen verboten.
-   ↳ 2.4 - Das Überfallen von Basen ist erlaubt, sofern mindestens ein Spieler des angegriffenen Teams online ist und keine unfairen Verhältnisse bestehen (siehe Regel 1.8).
-   ↳ 2.5 - Pro Team dürfen sich maximal drei Gefechts Raketen gleichzeitig in der Luft befinden.
+   ↳ 2.4 - Das Überfallen von Basen ist erlaubt, sofern mindestens ein Spieler des angegriffenen Teams online ist und keine unfairen Verhältnisse bestehen (siehe Regel 2.6).
+   ↳ 2.5 - Pro Team dürfen sich maximal drei Gefechts Raketen(Gemeint sind alle Raketen von ICBM) gleichzeitig in der Luft befinden.
    ↳ 2.6 - Das Verhältnis zwischen Angreifern und Verteidigern darf maximal 2:1 betragen. Beispiel: Wird ein Team mit zwei online befindlichen Spielern angegriffen, dürfen höchstens vier Spieler den Angriff durchführen.
       ↳ 2.6.1 - Im Verteidigungsfall darf das angegriffene Team diese Beschränkung umgehen, solange dies nur in der eigenen Basis und umliegend stattfindet.
       ↳ 2.6.2 - Der Kampf Timer beträgt 5 Minuten nach dem letzt ausgeführten/erhaltenen Schaden, damit eine Chance auf Rache besteht und ein verlassen des Servers verzögert wird.
