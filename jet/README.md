@@ -35,8 +35,6 @@ ___
 3. Welt & Base
    ↳ 3.0 - Es ist für jedes Team nötig ein gut sichtbares Schild in der Basis mit allen Teammitgliedern aufgelistet zu haben.
    ↳ 3.1 - Das Laden von Chunks darf nur durch Spieler geschehen.
-      ↳ 3.1.1 - Nach 30 Minuten Inaktivität wirst du als AFK makiert und auf die Lobby geschoben.
-      ↳ 3.1.2 - Mechaniken um die Zeit zu verlängert sind nicht erlaubt.
    ↳ 3.2 - Auf dem JET-Server ist das Griefen/Mutwillige zerstören von Basen grundsätzlich erlaubt. Allerdings gilt jede Form der Zerstörung als Kriegserklärung. Eine vollständige Zerstörung einer Basis ist erlaubt. Sollte jedoch ein weniger zerstörerischer Weg in die Basis möglich sein, so ist dieser zu bevorzugen.
       ↳ 3.2.1 - Eine Basis gilt nur dann als Basis wenn sie regelmäßig in Benutzung ist. Ein Angriffslager in der Nähe der feindlichen Basis ist keine Basis.
       ↳ 3.2.2 - Stützpunkte in anderen Dimensionen gelten nicht als Basen.
@@ -73,8 +71,6 @@ ___
 3. World & Bases
    ↳ 3.0 - Each team must place a clearly visible sign in their base listing all team members.  
    ↳ 3.1 - Chunks may only be loaded by players.  
-      ↳ 3.1.1 - After 30 minutes of inactivity, you will be marked as AFK and moved to the lobby.  
-      ↳ 3.1.2 - Using mechanics to extend this time is not allowed.  
    ↳ 3.2 - Griefing or deliberately destroying bases is generally allowed on the JET server. However, all destruction is considered a declaration of war. Complete destruction is allowed, but if a less destructive method exists, it should be preferred.  
       ↳ 3.2.1 - A base is only considered a base if it is actively used. A war camp near an enemy base is not considered a base.  
       ↳ 3.2.2 - Outposts in other dimensions do not count as bases.  
