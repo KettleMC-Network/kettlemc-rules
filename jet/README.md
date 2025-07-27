@@ -22,7 +22,7 @@ ___
    ↳ 2.2 - Roleplay ist grundsätzlich auf dem Server erlaubt (mit Ausnahme von Power-Play*²), solange es nicht übermäßig stört oder gegen andere Regeln – etwa gegen das Verbot nationalsozialistischer Inhalte – verstößt.
    ↳ 2.3 - Das Stehlen von Items aus ungeschützten¹ Kisten oder anderen Containern ist erlaubt. Befindet sich das Gebiet jedoch unter Schutz¹, ist das Stehlen verboten.
    ↳ 2.4 - Das Überfallen von Basen ist erlaubt, sofern mindestens ein Spieler des angegriffenen Teams online ist und keine unfairen Verhältnisse bestehen (siehe Regel 2.6).
-   ↳ 2.5 - Pro Team dürfen sich maximal drei Gefechts Raketen(Gemeint sind alle Raketen von ICBM) gleichzeitig in der Luft befinden.
+   ↳ 2.5 - Pro Team dürfen sich maximal drei Gefechts Raketen (Gemeint sind alle Raketen von ICBM) gleichzeitig in der Luft befinden.
    ↳ 2.6 - Das Verhältnis zwischen Angreifern und Verteidigern darf maximal 2:1 betragen. Beispiel: Wird ein Team mit zwei online befindlichen Spielern angegriffen, dürfen höchstens vier Spieler den Angriff durchführen.
       ↳ 2.6.1 - Im Verteidigungsfall darf das angegriffene Team diese Beschränkung umgehen, solange dies nur in der eigenen Basis und umliegend stattfindet.
       ↳ 2.6.2 - Der Kampf Timer beträgt 5 Minuten nach dem letzt ausgeführten/erhaltenen Schaden, damit eine Chance auf Rache besteht und ein verlassen des Servers verzögert wird.
@@ -58,7 +58,7 @@ ___
    ↳ 2.2 - Roleplay is generally allowed (except for power play*²), as long as it is not excessively disruptive or violates other rules (e.g., Nazi-related content).  
    ↳ 2.3 - Stealing from unprotected¹ chests or containers is allowed. However, stealing from protected¹ areas is forbidden.  
    ↳ 2.4 - Raiding bases is allowed if at least one member of the defending team is online and the attacker/defender ratio is fair (see rule 2.6).  
-   ↳ 2.5 - Each team may have a maximum of three combat missiles in the air at any given time.  
+   ↳ 2.5 - Each team may have a maximum of three combat missiles (This refers to all missiles from ICBM) in the air at any given time.  
    ↳ 2.6 - The attacker-to-defender ratio must not exceed 2:1. Example: If two players are online on the defending team, a maximum of four attackers is allowed.  
       ↳ 2.6.1 - Defending teams may ignore this limitation as long as combat remains within or around their own base.  
       ↳ 2.6.2 - The combat timer is 5 minutes after the last dealt or received damage to allow for revenge and discourage logging off.  
